@@ -5,7 +5,18 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors:{
+        primary:{
+          lightPurple: '#2c2c38',
+          darkPurple: '#21212d',
+        },
+        secondary:{
+          lightGray:'#858c9a',
+          purple: '#635fc6',
+        },
+      },
+    },
   },
   plugins: [],
 }
