@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        'poppins': ['Poppins','sans-serif'],
+      },
       colors:{
         primary:{
           lightPurple: '#2c2c38',
@@ -14,6 +17,7 @@ export default {
         secondary:{
           lightGray:'#858c9a',
           purple: '#635fc6',
+          columnBg:'#242430',
         },
       },
     },

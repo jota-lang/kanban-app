@@ -16,7 +16,8 @@
     "@mui/material": "^6.1.0",
     "kanban-app": "file:",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-modal": "^3.16.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
